@@ -1,8 +1,8 @@
 <a href="https://github.com/hanbitgoun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/top-langs/?username=hanbitgoun&layout=compact&repo=github-readme-stats" / width="auto" height ="auto">
+  <img align="left" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/top-langs/?username=hanbitgoun&layout=compact&repo=github-readme-stats" / width="auto" height ="auto">
 </a>
 <a href="https://github.com/hanbitgoun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/?username=hanbitgoun&show_icons=true&theme=radical&hide_border=True&repo=github-readme-stats" / width="auto" height="auto">
+  <img align="right" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/?username=hanbitgoun&show_icons=true&theme=radical&hide_border=True&repo=github-readme-stats" / width="auto" height="auto">
 </a>
 
 
