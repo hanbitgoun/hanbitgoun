@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/pin/?username=hanbitgoun&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/pin/?username=hanbitgoun&repo=github-readme-stats" />
