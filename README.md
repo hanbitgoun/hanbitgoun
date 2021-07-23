@@ -1,11 +1,9 @@
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="github-readme-stats-lemon-sigma-76.vercel.app/api/pin/?username=hanbitgoun" />
+  <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="github-readme-stats-lemon-sigma-76.vercel.app/api/pin/?username=hanbitgoun&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-
 
 
 
