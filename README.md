@@ -1,5 +1,5 @@
 <a href="https://github.com/hanbitgoun/github-readme-stats">
-  <img align="auto" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/top-langs/?username=hanbitgoun&layout=compact&repo=github-readme-stats" / width="auto" height ="auto">
+  <img align="auto" src="https://github-readme-stats-lemon-sigma-76.vercel.app/api/top-langs/?username=hanbitgoun&exclude_repo=GJ_AI&layout=compact&repo=github-readme-stats" / width="auto" height ="auto">
 </a>
 
 
